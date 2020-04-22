@@ -1,0 +1,71 @@
+#conteinerTable1{
+	border-bottom: 2px solid grey;
+	border-top: 2px solid grey;
+	overflow-y: scroll;
+	width: 90%;
+	height: 300px;
+	margin-left: 5%;
+}
+#conteinerTable2{
+	margin-top: 1%;
+	border-bottom: 2px solid grey;
+	border-top: 2px solid grey;
+	overflow-y: scroll;
+	height: 200px;
+	width: 40%;
+	margin-left: 5%;
+}
+#conteinerTable3{
+	margin-top: 1%;
+	border-bottom: 2px solid grey;
+	border-top: 2px solid grey;
+	overflow-y: scroll;
+	height: 200px;
+	width: 45%;
+	margin-right: 5%;
+    float: right;
+
+}
+#relTable{
+	margin-top: -14%;
+}
+#relTable img{
+	width: 30%;
+}
+#studentsTable{ 
+    width: 20%;
+    margin-top: -30%;
+}
+#courseTable{
+    width: 100%;
+    margin-top: -10%;
+}
+table{
+	width: 100%;
+	height: auto;
+}
+h2{
+	text-align: center;
+}
+th{
+	border:1px solid grey;
+}
+td{
+	border:1px solid black;
+	width: 5%;
+	text-align: center;
+}
+
+#main_forms{
+	display: inline-flex;
+}
+#main_forms div{
+	text-align: center;
+	margin-left: 17%;
+	width: 35%;
+	padding: 3%;
+	border: 1px solid grey;
+}
+#main_forms div form{
+   border-bottom: 1px solid grey;
+}

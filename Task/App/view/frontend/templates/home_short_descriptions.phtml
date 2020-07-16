@@ -1,0 +1,14 @@
+<div class="block_news">
+   <form method="get">
+   	 <div class="conteinerTitle">
+      <label class="action_link" for="<?= $id;?>"><?= $title;?></label>
+     </div>
+   	  <input type="text" class="hide_values" name="about" value="<?= $id;?>">
+   	   
+      <input type="submit" class="hide_values" id="<?= $id;?>" data-block="<?= $id;?>">
+   </form>
+   <div class="short_descriptions">
+         <?= $short_descriptions;?>
+   </div>
+   <p class="publication_date"><?= $publication_date;?></p>
+</div>

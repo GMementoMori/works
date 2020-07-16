@@ -1,0 +1,17 @@
+{
+    "name": "mementomori",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Memento Mori"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Task\\": ""
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}

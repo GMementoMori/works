@@ -1,0 +1,21 @@
+<form class="buttons_form" method="GET">
+
+    <input type='text' 
+           name='title_tabel' 
+           class='hide_values' 
+           value='<?= $_SESSION["Table"];?>'>
+
+    <input type='text' 
+           name='min_numb' 
+           class='hide_values' 
+           value='<?= $end;?>'>
+
+    <input type='text' 
+           class='hide_values'
+           name='actual_block' 
+           value='<?= $endButton;?>'>
+  <input type='submit' 
+         class='render-list-quick-buttons'
+         value='end ->'
+   >
+</form>

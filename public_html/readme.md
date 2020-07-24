@@ -1,11 +1,11 @@
-Admin Page : "localhost/login.php"
+**Admin Page** : "localhost/login.php"
 
-Login - root
-Password - root
+**Login** - root
+**Password** - root
 
 Name database : "blog_db"
 
-****UPDATED****
+**UPDATED**
 
 -All bugs fixed-
 

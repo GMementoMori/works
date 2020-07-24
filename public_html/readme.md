@@ -1,6 +1,6 @@
 **Admin Page** : "localhost/login.php"
 
-**Login** - root \n
+**Login** - root
 
 **Password** - root
 

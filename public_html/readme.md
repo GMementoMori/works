@@ -1,6 +1,7 @@
 **Admin Page** : "localhost/login.php"
 
-**Login** - root
+**Login** - root \n
+
 **Password** - root
 
 Name database : "blog_db"
